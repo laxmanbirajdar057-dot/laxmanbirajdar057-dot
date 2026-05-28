@@ -3,7 +3,6 @@
 
 Email Me 👉 ✉️ **laxmanbirajdar057@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**Smart X-ray Luggage Detection Major Project
 - 🌱 **I’m currently learning:** Backend Technologies
 - 👯 **I’m looking to collaborate on:** Open source backend projects
 -📫 Reach me at: laxmanbirajdar057@gmail.com
