@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Laxman Birajdar 👋</h1>
-<h3 align="center">Aspiring DevOps / Cloud Engineer | Backend Engineer (Java & Spring Boot)</h3>
+<h3 align="center">Aspiring DevOps / Cloud Engineer</h3>
 
 <p align="center">
-I build backend services, then take them the rest of the way — containerized, pipelined, and deployed on cloud infrastructure.
-Currently closing the gap between <b>"it runs on my machine"</b> and <b>"it runs in production."</b>
+I containerize, automate, and deploy applications to the cloud — closing the gap between
+<b>"it runs on my machine"</b> and <b>"it runs in production."</b>
 </p>
 
 <p align="center">
@@ -45,11 +45,8 @@ Kubernetes · Deeper AWS Networking (VPC, ALB) · Terraform Modules
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 </p>
 
-**Backend**
+**Databases & Caching**
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
@@ -67,16 +64,16 @@ Kubernetes · Deeper AWS Networking (VPC, ALB) · Terraform Modules
 ### 🚀 Featured Projects
 
 #### [URL Shortener — Dockerized, CI/CD to AWS](https://github.com/)
-Spring Boot + MySQL + Redis service with a full deployment pipeline: multi-stage Docker build, GitHub Actions CI (test → build → push image to GHCR), and EC2 deployment pulling the prebuilt image. Instrumented with Prometheus and Grafana.
-`Spring Boot` `Docker` `GitHub Actions` `AWS EC2` `Redis` `Prometheus/Grafana`
+Full deployment pipeline for a MySQL + Redis-backed service: multi-stage Docker build, GitHub Actions CI (test → build → push image to GHCR), and EC2 deployment pulling the prebuilt image. Instrumented with Prometheus and Grafana.
+`Docker` `GitHub Actions` `AWS EC2` `Redis` `Prometheus/Grafana`
 
 #### [ReferTrack — Smart Job Tracker & Referral Management System](https://github.com/)
-Full-stack job application tracker with a JWT-secured Spring Boot backend, Redis caching, and Gemini API-powered resume/JD match scoring. Deployed on Railway with GitHub Actions CI/CD.
-`Spring Boot` `Spring Security` `MySQL` `Redis` `CI/CD`
+Job application tracker with a JWT-secured API, Redis caching, and Gemini API-powered resume/JD match scoring. Deployed on Railway with GitHub Actions CI/CD.
+`CI/CD` `Redis` `MySQL` `JWT Auth`
 
 #### [Payment Gateway Integration Service](https://github.com/) *(in progress)*
 Razorpay sandbox integration with idempotency keys, HMAC webhook verification, and AWS Secrets Manager for credential handling.
-`Spring Boot` `AWS Secrets Manager` `Webhooks`
+`AWS Secrets Manager` `Webhooks` `Security`
 
 ---
 
